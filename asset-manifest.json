@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/omthurman/test-pages.git/static/css/main.e6c13ad2.css",
+    "main.js": "/omthurman/test-pages.git/static/js/main.760a35c8.js",
+    "static/js/787.bc7d429a.chunk.js": "/omthurman/test-pages.git/static/js/787.bc7d429a.chunk.js",
+    "index.html": "/omthurman/test-pages.git/index.html",
+    "main.e6c13ad2.css.map": "/omthurman/test-pages.git/static/css/main.e6c13ad2.css.map",
+    "main.760a35c8.js.map": "/omthurman/test-pages.git/static/js/main.760a35c8.js.map",
+    "787.bc7d429a.chunk.js.map": "/omthurman/test-pages.git/static/js/787.bc7d429a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.760a35c8.js"
+  ]
+}
