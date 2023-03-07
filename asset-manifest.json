@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/omthurman/test-pages.git/static/css/main.e6c13ad2.css",
-    "main.js": "/omthurman/test-pages.git/static/js/main.e197916a.js",
-    "static/js/787.bc7d429a.chunk.js": "/omthurman/test-pages.git/static/js/787.bc7d429a.chunk.js",
-    "static/media/dash.png": "/omthurman/test-pages.git/static/media/dash.c053f77775c42062271d.png",
-    "index.html": "/omthurman/test-pages.git/index.html",
-    "main.e6c13ad2.css.map": "/omthurman/test-pages.git/static/css/main.e6c13ad2.css.map",
-    "main.e197916a.js.map": "/omthurman/test-pages.git/static/js/main.e197916a.js.map",
-    "787.bc7d429a.chunk.js.map": "/omthurman/test-pages.git/static/js/787.bc7d429a.chunk.js.map"
+    "main.css": "/omthurman/test-pages/static/css/main.e6c13ad2.css",
+    "main.js": "/omthurman/test-pages/static/js/main.7578df59.js",
+    "static/js/787.bc7d429a.chunk.js": "/omthurman/test-pages/static/js/787.bc7d429a.chunk.js",
+    "static/media/dash.png": "/omthurman/test-pages/static/media/dash.c053f77775c42062271d.png",
+    "index.html": "/omthurman/test-pages/index.html",
+    "main.e6c13ad2.css.map": "/omthurman/test-pages/static/css/main.e6c13ad2.css.map",
+    "main.7578df59.js.map": "/omthurman/test-pages/static/js/main.7578df59.js.map",
+    "787.bc7d429a.chunk.js.map": "/omthurman/test-pages/static/js/787.bc7d429a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.e197916a.js"
+    "static/js/main.7578df59.js"
   ]
 }
