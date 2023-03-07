@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/test-pages/static/css/main.e6c13ad2.css",
-    "main.js": "/test-pages/static/js/main.ce073275.js",
-    "static/js/787.bc7d429a.chunk.js": "/test-pages/static/js/787.bc7d429a.chunk.js",
-    "static/media/dash.png": "/test-pages/static/media/dash.c053f77775c42062271d.png",
-    "index.html": "/test-pages/index.html",
-    "main.e6c13ad2.css.map": "/test-pages/static/css/main.e6c13ad2.css.map",
-    "main.ce073275.js.map": "/test-pages/static/js/main.ce073275.js.map",
-    "787.bc7d429a.chunk.js.map": "/test-pages/static/js/787.bc7d429a.chunk.js.map"
+    "main.css": "/BlackStone-Website/static/css/main.e6c13ad2.css",
+    "main.js": "/BlackStone-Website/static/js/main.7a5010c7.js",
+    "static/js/787.bc7d429a.chunk.js": "/BlackStone-Website/static/js/787.bc7d429a.chunk.js",
+    "static/media/dash.png": "/BlackStone-Website/static/media/dash.c053f77775c42062271d.png",
+    "index.html": "/BlackStone-Website/index.html",
+    "main.e6c13ad2.css.map": "/BlackStone-Website/static/css/main.e6c13ad2.css.map",
+    "main.7a5010c7.js.map": "/BlackStone-Website/static/js/main.7a5010c7.js.map",
+    "787.bc7d429a.chunk.js.map": "/BlackStone-Website/static/js/787.bc7d429a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.ce073275.js"
+    "static/js/main.7a5010c7.js"
   ]
 }
